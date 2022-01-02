@@ -1,0 +1,16 @@
+.main
+{
+width: 50%;
+text-align: center;
+margin: auto;
+
+}
+.icon
+{
+    font-size: 50px;
+}
+.email
+{
+    background-color: palevioletred;
+    padding: 20px;
+}
